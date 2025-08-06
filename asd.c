@@ -22,6 +22,8 @@ int main() {
 
     // Print the reversed number
     printf("Reversed number: %d\n", reversed);
+    shreya
 
     return 0;
 }
+
